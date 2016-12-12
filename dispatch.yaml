@@ -1,0 +1,6 @@
+dispatch:
+        - url: "studio.locallatenight.com/*"
+          module: "studio"
+        - url: "composition.locallatenight.com/*"
+          module: "composition"
+
